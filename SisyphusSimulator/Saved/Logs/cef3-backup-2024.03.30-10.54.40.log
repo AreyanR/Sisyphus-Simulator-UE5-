@@ -1,0 +1,19 @@
+[0329/235605.371:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0330/035436.597:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035436.842:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0330/035436.918:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035436.939:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[0330/035437.249:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035437.262:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
+[0330/035437.583:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035437.596:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
+[0330/035437.916:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035437.927:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
+[0330/035438.250:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035438.265:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
+[0330/035438.584:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035438.917:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035439.250:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035439.583:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035439.917:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0330/035440.250:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
