@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\areya\\OneDrive\\Desktop\\GitHub\\Sisyphus-Simulator\\SisyphusSimulator\\Intermediate\\Source\\SisyphusSimulator.Build.cs",
+		"C:\\Users\\areya\\OneDrive\\Desktop\\GitHub\\Sisyphus-Simulator\\SisyphusSimulator\\Intermediate\\Source\\SisyphusSimulator.Target.cs",
+		"C:\\Users\\areya\\OneDrive\\Desktop\\GitHub\\Sisyphus-Simulator\\SisyphusSimulator\\Intermediate\\Source\\SisyphusSimulatorClient.Target.cs",
+		"C:\\Users\\areya\\OneDrive\\Desktop\\GitHub\\Sisyphus-Simulator\\SisyphusSimulator\\Intermediate\\Source\\SisyphusSimulatorEditor.Target.cs",
+		"C:\\Users\\areya\\OneDrive\\Desktop\\GitHub\\Sisyphus-Simulator\\SisyphusSimulator\\Intermediate\\Source\\SisyphusSimulatorServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

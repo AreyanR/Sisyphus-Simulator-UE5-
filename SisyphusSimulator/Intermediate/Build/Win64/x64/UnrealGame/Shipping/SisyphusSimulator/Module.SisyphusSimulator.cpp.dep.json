@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\areya\\onedrive\\desktop\\github\\sisyphus-simulator\\sisyphussimulator\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\sisyphussimulator\\module.sisyphussimulator.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\areya\\onedrive\\desktop\\github\\sisyphus-simulator\\sisyphussimulator\\intermediate\\build\\win64\\x64\\sisyphussimulator\\shipping\\core\\sharedpch.core.cpp17.h.pch",
+        "Includes": [
+            "c:\\users\\areya\\onedrive\\desktop\\github\\sisyphus-simulator\\sisyphussimulator\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\sisyphussimulator\\definitions.sisyphussimulator.h",
+            "c:\\users\\areya\\onedrive\\desktop\\github\\sisyphus-simulator\\sisyphussimulator\\intermediate\\source\\sisyphussimulator.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
