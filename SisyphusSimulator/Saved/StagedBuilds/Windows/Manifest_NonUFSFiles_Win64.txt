@@ -1,0 +1,16 @@
+SisyphusSimulator/Binaries/Win64/D3D12/D3D12Core.dll	2024-03-07T10:33:11.560Z
+SisyphusSimulator/Binaries/Win64/OpenImageDenoise.dll	2024-03-07T10:56:05.312Z
+SisyphusSimulator/Binaries/Win64/SisyphusSimulator-Win64-Shipping.exe	2024-06-05T21:34:10.853Z
+SisyphusSimulator/Binaries/Win64/tbb.dll	2024-03-07T10:32:58.003Z
+SisyphusSimulator/Binaries/Win64/tbb12.dll	2024-03-07T10:56:02.404Z
+SisyphusSimulator/Binaries/Win64/tbbmalloc.dll	2024-03-07T10:32:58.010Z
+Engine/Extras/Redist/en-us/UEPrereqSetup_x64.exe	2024-03-07T10:39:44.388Z
+Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll	2024-03-07T10:32:05.012Z
+Engine/Binaries/ThirdParty/MsQuic/v220/win64/msquic.dll	2024-03-07T10:33:03.013Z
+Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2024-03-07T10:33:03.035Z
+Engine/Binaries/ThirdParty/Ogg/Win64/VS2015/libogg_64.dll	2024-03-07T10:33:03.824Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-03-07T10:33:11.545Z
+Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-03-07T10:33:11.546Z
+Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-03-07T10:33:12.660Z
+Engine/Content/Slate/Cursor/invisible.cur	2024-03-07T10:35:31.559Z
+SisyphusSimulator.exe	2024-06-06T00:36:47.517Z
