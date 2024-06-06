@@ -79,3 +79,4 @@ SisyphusSimulator/Content/Primitive_Characters_Pack/Textures/Primitive_03/Charac
 SisyphusSimulator/Content/Primitive_Characters_Pack/Textures/Primitive_04/Character/T_Primitive_04_Normals.uasset
 SisyphusSimulator/Binaries/Win64/SisyphusSimulator-Win64-Shipping.pdb
 *.ucas
+SisyphusSimulator/Saved/Cooked/Windows/SisyphusSimulator/Content/Primitive_Characters_Pack/Textures/Primitive_01/Primitive_Character_Set_01/T_Primitive_Character_Set_01_Ao.uptnl
