@@ -14,8 +14,10 @@ It's very simple; your goal is to push the boulder to the top.
 - When you walk up to the boulder, the character automatically gets into a pushing position
 - The letter "P" opens a pause menu
 
-## Current Bugs
-A current bug I am dealing with is the boulder rolls fine on flat terrain, but on the hill, it has a hard time staying still and just slides. Part of the reason why this is the case is because of the way the boulder relies on the animation to be pushed.
+## Issues
+- Quality of the package game is not great
+- Boulder doesn't spin properly on uphills
+
 
 ## About the Project
 This project is my first endeavor in Unreal Engine. Inspired by the story of Sisyphus, I aimed to explore the concept through game development. I used this project to introduce myself to all the Unreal Engine software and how to code using the Blueprint system. I found this project to be very helpful.
