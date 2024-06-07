@@ -374,7 +374,7 @@ Engine:/Script/Engine.RendererSettings:MaxSkinBones:0=(Default=65536,PerPlatform
 Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
 Engine:/Script/Engine.RendererSettings:r.ReflectionMethod:0=1
-Engine:/Script/Engine.RendererSettings:r.Shadow.Virtual.Enable:0=1
+Engine:/Script/Engine.RendererSettings:r.Shadow.Virtual.Enable:0=0
 Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
@@ -744,7 +744,7 @@ Game:/Script/EngineSettings.GeneralProjectSettings:ProjectVersion:0=1.0.0.0
 Game:/Script/EngineSettings.GeneralProjectSettings:Homepage:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:SupportContact:0=
 Game:/Script/EngineSettings.GeneralProjectSettings:ProjectID:0=28A2486A426E2D2F01FD78AA80A887B6
-Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Development
+Game:/Script/UnrealEd.ProjectPackagingSettings:BuildConfiguration:0=PPBC_Shipping
 Game:/Script/UnrealEd.ProjectPackagingSettings:FullRebuild:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bUseIoStore:0=True
