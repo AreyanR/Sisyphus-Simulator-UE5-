@@ -23,7 +23,7 @@ It's very simple; your goal is to push the boulder to the top.
 This project is my first endeavor in Unreal Engine. Inspired by the story of Sisyphus, I aimed to explore the concept through game development. I used this project to introduce myself to all the Unreal Engine software and how to code using the Blueprint system. I found this project to be very helpful.
 
 ## How to Play
-Download and unzip file, run application: [Google Drive]([https://drive.google.com/file/d/1YTo8gncWW-M7xw4585FKnfiAohsqh6Ug/view?usp=sharing](https://drive.google.com/file/d/1QHH5j1WFE5rQqx4gjz5kw4IJgk9JBmAE/view?usp=sharing))
+Download and unzip the file, then run the application: [Google Drive](https://drive.google.com/file/d/1YTo8gncWW-M7xw4585FKnfiAohsqh6Ug/view?usp=sharing)
 
 ## Contact
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
