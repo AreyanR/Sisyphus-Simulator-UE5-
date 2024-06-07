@@ -15,7 +15,7 @@ It's very simple; your goal is to push the boulder to the top.
 - The letter "P" opens a pause menu
 
 ## Issues
-- Quality of the package game is not great
+- Shadows are not showing up properly for the packaged game.
 - Boulder doesn't spin properly on uphills
 
 
