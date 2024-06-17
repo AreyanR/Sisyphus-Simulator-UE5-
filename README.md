@@ -12,7 +12,7 @@ It's very simple; your goal is to push the boulder to the top.
 - WASD and arrow keys for movement
 - Spacebar to jump
 - When you walk up to the boulder, the character automatically gets into a pushing position
-- The letter "P" opens a pause menu
+- The esc key opens a pause menu
 
 ## Issues
 - Shadows are not showing up properly for the packaged game.
