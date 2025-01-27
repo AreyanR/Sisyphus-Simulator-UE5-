@@ -16,7 +16,6 @@ It's very simple; your goal is to push the boulder to the top.
 
 ## Issues
 - Shadows are not showing up properly for the packaged game.
-- Boulder doesn't spin properly on uphills
 
 
 ## About the Project
