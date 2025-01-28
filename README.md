@@ -27,7 +27,7 @@ This project is my first endeavor in Unreal Engine. Inspired by the story of Sis
 |:--------------------------------:|:--------------------------------:|
 
 
-| ![Preview3](images/preview3.png) | <img src="images/gameplay.gif" width="1000" /> |
+| ![Preview3](images/preview3.png) | <img src="images/gameplay.gif" width="500" /> |
 |:--------------------------------:|:--------------------------------:|
 
 
