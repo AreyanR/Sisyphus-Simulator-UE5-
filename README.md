@@ -35,7 +35,7 @@ This project is my first endeavor in Unreal Engine. Inspired by the story of Sis
 
 
 ## How to Play
-Download and unzip the file, then run the application: [Google Drive](https://drive.google.com/file/d/1jHrTs4PYUg3vKsLuvpruK6-Hhdn_GN9l/view?usp=sharing)
+Download and unzip the file, then run the application: [Google Drive](https://drive.google.com/file/d/1QHH5j1WFE5rQqx4gjz5kw4IJgk9JBmAE/view?usp=sharing)
 
 ## Issues
 - Shadows are not showing up properly for the packaged game.
