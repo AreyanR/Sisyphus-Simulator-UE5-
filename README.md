@@ -15,6 +15,10 @@ It's very simple; your goal is to push the boulder to the top.
 - The esc key opens a pause menu
 
 
+## About the Project
+This project is my first endeavor in Unreal Engine. Inspired by the story of Sisyphus, I aimed to explore the concept through game development. I used this project to introduce myself to all the Unreal Engine software and how to code using the Blueprint system. I found this project to be very helpful.
+
+
 ## Preview
 
 ### Gameplay Demo
@@ -29,10 +33,6 @@ It's very simple; your goal is to push the boulder to the top.
 |:--------------------------------:|:--------------------------------:|
 
 
-
-
-## About the Project
-This project is my first endeavor in Unreal Engine. Inspired by the story of Sisyphus, I aimed to explore the concept through game development. I used this project to introduce myself to all the Unreal Engine software and how to code using the Blueprint system. I found this project to be very helpful.
 
 ## How to Play
 Download and unzip the file, then run the application: [Google Drive](https://drive.google.com/file/d/1jHrTs4PYUg3vKsLuvpruK6-Hhdn_GN9l/view?usp=sharing)
