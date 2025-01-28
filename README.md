@@ -22,11 +22,12 @@ This project is my first endeavor in Unreal Engine. Inspired by the story of Sis
 ## Preview
 
 
+
 | ![Preview1](images/preview4.png) | ![Preview2](images/preview2.png) |
 |:--------------------------------:|:--------------------------------:|
 
 
-| ![Preview3](images/preview3.png) | <img src="images/gameplay.gif" width="1500" /> |
+| ![Preview3](images/preview3.png) | <img src="images/gameplay.gif" width="1000" /> |
 |:--------------------------------:|:--------------------------------:|
 
 
