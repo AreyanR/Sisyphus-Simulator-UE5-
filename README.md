@@ -21,15 +21,12 @@ This project is my first endeavor in Unreal Engine. Inspired by the story of Sis
 
 ## Preview
 
-### - [Gameplay Demo Video](https://drive.google.com/file/d/1jHrTs4PYUg3vKsLuvpruK6-Hhdn_GN9l/view?usp=sharing)
-
-
 
 | ![Preview1](images/preview4.png) | ![Preview2](images/preview2.png) |
 |:--------------------------------:|:--------------------------------:|
 
 
-| ![Preview3](images/preview3.png) | ![Preview4](images/preview1.png) |
+| ![Preview3](images/preview3.png) | <img src="images/gameplay.gif" width="1500" /> |
 |:--------------------------------:|:--------------------------------:|
 
 
