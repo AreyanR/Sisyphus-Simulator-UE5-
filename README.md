@@ -6,7 +6,7 @@
 |:--------------------------------:|:--------------------------------:|
 
 
-| ![Preview3](images/preview3.png) | <img src="images/gameplay.gif" width="1700" /> |
+| ![Preview3](images/preview3.png) | <img src="images/gameplay.gif" width="300" /> |
 |:--------------------------------:|:--------------------------------:|
 
 
